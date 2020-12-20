@@ -1,0 +1,40 @@
+
+
+#header {
+  height: 75px;
+  padding: 1rem;
+  color: white;
+  background: teal;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Share Tech",sans-serif;
+}
+
+.header-items {
+    display: flex; 
+}
+
+.header-item {
+    padding: 1rem;
+}
+
+#spacer {
+
+}
+
+body {
+    font-family: "Share Tech",sans-serif;
+}
+
+.contents {
+    width : 60%;
+    align-items: center;
+}
+
+#intro {
+    display:flex;
+}
+
+
